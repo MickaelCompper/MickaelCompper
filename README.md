@@ -5,5 +5,5 @@
 - 📫 How to reach me :
 
   Phone : +33 6 51 02 25 89
-  Email : <a href =mailtto:"denturesdaemon@protonmail.com">denturesdaemon@protonmail.com</a>
+  Email : denturesdaemon@protonmail.com
   
